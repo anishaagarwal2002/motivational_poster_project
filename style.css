@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+
+.poster{
+    width: 50%;
+    margin-left: 25%;
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+}
+
+h1{
+    text-transform: uppercase;
+    color:rgba(247, 181, 213, 0.956);
+    text-align: center;
+    font-size: 3rem;
+}
+img{
+    width: 100%;
+    border: 5px solid white;
+}
+
+p{
+    font-family: 'Frank Ruhl Libre', serif;
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    color:rgb(188, 229, 246);
+    font-size: 2em;
+}
